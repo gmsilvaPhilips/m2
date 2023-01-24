@@ -1,1 +1,7 @@
-original text file written in vim 
+original text file written in vim
+
+
+
+this line will not be changed during the merge
+
+this line will also not be altered
