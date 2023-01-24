@@ -1,1 +1,7 @@
 original text file written in vim 
+
+archive being changed 
+
+it is being changed inside github's text editor
+
+I am inserting 3 non consecutive lines 
